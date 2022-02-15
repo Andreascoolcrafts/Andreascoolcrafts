@@ -1,7 +1,7 @@
 -  Hi, I’m Andreas
--  I’m currently learning C
+-  I’m currently learning COBOL
 -  Reach me at andreascoolcrafts@gmail.com
--  Fan of UNIX Systems like BSD and macOS and Deb-based LINUX Systems.
+-  Fan of BSD Operating System's (FreeBSD and Darwin)
 -  Never using Windows 
 <!---
 Andreascoolcrafts/Andreascoolcrafts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
