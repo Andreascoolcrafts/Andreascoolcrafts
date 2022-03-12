@@ -1,6 +1,6 @@
 -  Hi, I’m Andreas
 -  I’m currently learning COBOL
--  Reach me at andreascoolcrafts@gmail.com
+-  Reach me at andreas@rittsel.de
 -  Fan of BSD Operating System's (FreeBSD and Darwin)
 -  Never using Windows 
 <!---
