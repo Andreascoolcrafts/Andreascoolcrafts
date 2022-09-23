@@ -1,5 +1,5 @@
 -  Hi, I’m Andreas
--  I’m currently learning COBOL
+-  I’m currently learning C & COBOL
 -  Reach me at andreas@rittsel.de
 -  Fan of BSD Operating System's (FreeBSD and Darwin)
 -  Never using Windows 
