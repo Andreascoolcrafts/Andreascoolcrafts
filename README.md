@@ -1,5 +1,6 @@
--  Hi, I’m Andreas
--  I’m currently learning C & COBOL
+<b> Hi, I’m Andreas </b>
+-  Using Atom & VS-Code
+-  Currently learning C & COBOL
 -  Reach me at andreas@rittsel.de
 -  Fan of BSD Operating System's (FreeBSD and Darwin)
 -  Never using Windows 
